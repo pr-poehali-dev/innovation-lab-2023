@@ -25,6 +25,22 @@ export default function HeroContent() {
           приватные сборки и обход популярных анти-читов. Стань непобедимым на любом сервере.
         </p>
 
+        {/* Pricing */}
+        <div className="flex items-center gap-3 flex-wrap mb-4">
+          <div className="px-4 py-2 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 text-center">
+            <div className="text-white text-sm font-medium">300 ₽</div>
+            <div className="text-white/50 text-xs">1 месяц</div>
+          </div>
+          <div className="px-4 py-2 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 text-center">
+            <div className="text-white text-sm font-medium">400 ₽</div>
+            <div className="text-white/50 text-xs">2 месяца</div>
+          </div>
+          <div className="px-4 py-2 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 text-center">
+            <div className="text-white text-sm font-medium">1 000 ₽</div>
+            <div className="text-white/50 text-xs">Навсегда</div>
+          </div>
+        </div>
+
         {/* Buttons */}
         <div className="flex items-center gap-4 flex-wrap">
           <button className="px-8 py-3 rounded-full bg-transparent border border-white/30 text-white font-normal text-xs transition-all duration-200 hover:bg-white/10 hover:border-white/50 cursor-pointer">
