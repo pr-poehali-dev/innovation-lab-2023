@@ -14,9 +14,9 @@ export default function HeroContent() {
 
         {/* Main Heading */}
         <h1 className="text-5xl md:text-6xl md:leading-16 tracking-tight font-light text-white mb-4">
-          <span className="font-medium italic">Доминируй</span> в Minecraft
+          <span className="font-medium italic">Avalora</span> Client
           <br />
-          <span className="font-light tracking-tight text-white">с лучшим читом</span>
+          <span className="font-light tracking-tight text-white">чит нового уровня</span>
         </h1>
 
         {/* Description */}
