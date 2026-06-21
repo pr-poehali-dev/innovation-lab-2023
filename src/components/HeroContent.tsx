@@ -31,7 +31,7 @@ export default function HeroContent() {
             Функции
           </button>
           <button className="px-8 py-3 rounded-full bg-white text-black font-normal text-xs transition-all duration-200 hover:bg-white/90 cursor-pointer">
-            Скачать чит
+            Купить чит
           </button>
         </div>
       </div>
